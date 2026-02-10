@@ -1,0 +1,7 @@
+.container { text-align: center; padding: 2rem; }
+.grid { display: flex; justify-content: center; gap: 2rem; }
+.card { padding: 2rem; border-radius: 10px; color: white; text-decoration: none; transition: transform 0.2s; }
+.card:hover { transform: scale(1.05); }
+.weight { background: #4CAF50; }
+.temperature { background: #2196F3; }
+.length { background: #FF9800; }
